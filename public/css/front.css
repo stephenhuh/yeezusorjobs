@@ -1,0 +1,29 @@
+html, body, ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.lr {
+  width: 50%;
+  height: 100vh;
+  display: inline-block;
+  background: black;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+img { 
+  max-width:100%;
+  max-height:100%;
+}
+
+img:hover {
+  transition: all 0.2s linear;
+  opacity: 0.7;
+}
