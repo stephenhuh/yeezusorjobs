@@ -11,8 +11,8 @@ Users can click for proof.
 
 Design
 -----
-Comic Sans & Doge 
-Mixed with Flat Design
+Minimal - flat, cartoony.
+Mixed with tiny bits of Comic Sans and Doge.
 
 
 
